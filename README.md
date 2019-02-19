@@ -34,29 +34,22 @@ CSS3 - Styling.
 
 HandleBars.js
 
-
-
-<<<<<<< HEAD
-##Wireframes 
+## Wireframes 
 Here are my wireframes for FootUp intended for use on a mobile phone. They are quite detailed, have a lot of wishful features, and many are not included on the app. They may be added in the future!
 
-##Home Page
+##  Home Page
 =======
 Wireframes:
 ----
 
 Home Page
 ----
->>>>>>> 0e2cea35fd30533d44232df7b282e4764f6a1583
 ![screen shot 2018-10-31 at 12 35 15 pm](https://user-images.githubusercontent.com/33140493/47804534-6db8b380-dd0b-11e8-97c7-22593bd95841.png)
 
+## Profile Setup
 
 
-<<<<<<< HEAD
-##Profile Setup
-
-
-##Show Page for Individual Clothing Items
+## Show Page for Individual Clothing Items
 =======
 Profile Setup
 ----
@@ -66,23 +59,16 @@ Profile Setup
 Index Page
 ---
 ![screen shot 2018-10-31 at 1 01 35 pm](https://user-images.githubusercontent.com/33140493/47805226-2fbc8f00-dd0d-11e8-96cc-90656f21176c.png)
->>>>>>> 0e2cea35fd30533d44232df7b282e4764f6a1583
 
 
-
-
-<<<<<<< HEAD
 =======
 Show Page for Individual Clothing Items
 ---
 ![screen shot 2018-10-31 at 1 00 16 pm](https://user-images.githubusercontent.com/33140493/47805141-f421c500-dd0c-11e8-92da-7eb5ed54be89.png)
->>>>>>> 0e2cea35fd30533d44232df7b282e4764f6a1583
-
-
 
 
 ERD Diagram / Model Associations
-<<<<<<< HEAD
+
 In this project I only had two models with a `has_and_belongs_to_many` or a many-to-many relationship. 
 
 Future Features
@@ -110,9 +96,6 @@ In this project I had six models with a one-to-many relationship.
 ![screen shot 2018-10-31 at 1 03 43 pm](https://user-images.githubusercontent.com/33140493/47805333-790cde80-dd0d-11e8-9659-297797c8f11c.png)
 
 
-
-
-
 Future Features:
 ---
 Authentication
@@ -133,4 +116,3 @@ Fully Functional Models
 Clothing search
 
 Descriptions for Clothing Items 
->>>>>>> 0e2cea35fd30533d44232df7b282e4764f6a1583

@@ -38,7 +38,7 @@ HandleBars.js
 Here are my wireframes for FootUp intended for use on a mobile phone. They are quite detailed, have a lot of wishful features, and many are not included on the app. They may be added in the future!
 
 ##  Home Page
-=======
+
 Wireframes:
 ----
 
@@ -50,7 +50,7 @@ Home Page
 
 
 ## Show Page for Individual Clothing Items
-=======
+
 Profile Setup
 ----
 ![screen shot 2018-10-31 at 12 55 53 pm](https://user-images.githubusercontent.com/33140493/47804924-6e057e80-dd0c-11e8-9a63-9054f8829ce1.png)
@@ -61,7 +61,6 @@ Index Page
 ![screen shot 2018-10-31 at 1 01 35 pm](https://user-images.githubusercontent.com/33140493/47805226-2fbc8f00-dd0d-11e8-96cc-90656f21176c.png)
 
 
-=======
 Show Page for Individual Clothing Items
 ---
 ![screen shot 2018-10-31 at 1 00 16 pm](https://user-images.githubusercontent.com/33140493/47805141-f421c500-dd0c-11e8-92da-7eb5ed54be89.png)
@@ -89,7 +88,7 @@ Email updates
 OAuth
 
 Game/player search
-=======
+
 ---
 In this project I had six models with a one-to-many relationship. 
 
